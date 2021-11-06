@@ -4,6 +4,8 @@ public class Bruch {
 
     public Bruch(int numerator, int denominator) {
         // TODO: Setzen Sie die Attribute entsprechend
+        numerator = 4;
+        denominator = 8;
     }
 
     public int getNumerator() {
